@@ -1,13 +1,20 @@
 {
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "my-json-server", "author": "typicode" }
+    { "id": 2, "title": "my-json-server", "author": "typicode" },
+    { "id": 3, "title": "my-json-server", "author": "typicode" },
+    { "id": 4, "title": "my-json-server", "author": "typicode" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "another comment", "postId": 1 }
+    { "id": 2, "body": "another comment", "postId": 1 },
+    { "id": 3, "body": "comment 20250617-0001", "postId": 1 },
+    { "id": 4, "body": "another 20250617-0002", "postId": 1 },
+    { "id": 5, "body": "another 20250717-0003", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "kornm": "홍길동",
+    "engnm": "Hong, Gil-dong"
   }
 }
